@@ -1,3 +1,5 @@
 # go-repo-zjgc
 
-Represent paper beat it ask.
+This is a sample project written in **Go**.
+
+Generated automatically.
